@@ -25,5 +25,9 @@
 
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
-[![Github Badge](https://img.shields.io/badge/-Github-ff8c00?style=flat&logo=Github&logoColor=ffffff&link=https://github.com/Arzunur)](https://github.com/Arzunur)
+<br>
+<p align="center">
+  <a href="https://github.com/Arzunur">
+    <img src="https://img.shields.io/badge/-Github-ff8c00?style=flat&logo=Github&logoColor=ffffff" alt="Github Badge" />
+  </a>
+</p>
